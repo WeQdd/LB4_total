@@ -23,8 +23,9 @@
 ## Возможные улучшения и дальнейшие шаги:
 * Автоматизация процесса генерации документации.
 * Повышение качества комментариев и самой документации.
-## Ссылки на проекты:
-Python: [https://weqdd.github.io/LB4/](https://weqdd.github.io/LB4/)
-[Java документация](https://github.com/WeQdd/java-projects-for-everybody)
+## Ссылки на проекты: 
+* [https://weqdd.github.io/LB4/](https://weqdd.github.io/LB4/)
+
+* [Java документация](https://github.com/WeQdd/javadoc)
 
 ![image](https://github.com/user-attachments/assets/1d1e9b06-60ac-4b9a-83a1-46dea3b0453d)
